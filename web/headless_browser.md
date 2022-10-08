@@ -3,4 +3,5 @@
 2. info
    - https://www.geeksforgeeks.org/driving-headless-chrome-with-python/
    - https://www.cnblogs.com/huchong/p/10796823.html
+   - https://github.com/dhamaniasad/HeadlessBrowsers
    - https://docs.scrapy.org/en/latest/topics/dynamic-content.html#using-a-headless-browser
